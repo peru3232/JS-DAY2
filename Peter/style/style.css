@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+.containerS {
+  width: 66%;
+  height: 20em;
+  border: solid 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
